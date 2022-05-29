@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Militaria_Gruszecki_Roman", "Militaria_Gruszecki_Roman.csproj", "{CBBE353C-E2B1-4728-9060-C4DDEB1680DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBBE353C-E2B1-4728-9060-C4DDEB1680DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBBE353C-E2B1-4728-9060-C4DDEB1680DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBBE353C-E2B1-4728-9060-C4DDEB1680DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBBE353C-E2B1-4728-9060-C4DDEB1680DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F50EC7CF-FF49-4B3C-8C08-DDB2ED1C8FDE}
+	EndGlobalSection
+EndGlobal
